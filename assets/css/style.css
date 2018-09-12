@@ -1,0 +1,12 @@
+
+
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    color: white;
+}
+
+img {
+    height: 15%;
+    width: 15%;
+}
